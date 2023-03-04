@@ -159,9 +159,13 @@ export default class Basic extends React.Component {
           <span style={{ color: "forestgreen" }}>
             /(Can they acclimate the future and the past{/*reduce */})
           </span>
-          ? Do community property probate states protect testamentary estate
-          beneficiaries’ inheriting children, siblings, and a spouse from lien
-          holders or personal creditors? Should probate
+          ? Do community property (vau.money:{space}
+          <i style={{ color: "dodgerblue" }}>
+            Did personal debt come before probate court?
+          </i>
+          ) probate states protect testamentary estate beneficiaries’ inheriting
+          children, siblings, and a spouse from lien holders or personal
+          creditors? Should probate
           <span style={{ color: "cornflowerblue" }}>
             /(government contractors' receivables)
           </span>
