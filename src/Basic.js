@@ -127,7 +127,7 @@ export default class Basic extends React.Component {
         </h3>
         <h4 style={{ margin: "4px 0px" }}>
           <a href="https://marginalism.uk">
-            Is economic opportunity by non-price access manipulation,
+            Is economic opportunity by price-skew access manipulation,
             usufructuary corpus regulation, or extra product duress exclusion
             inflationary?
           </a>
