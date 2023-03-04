@@ -112,7 +112,7 @@ export default class Basic extends React.Component {
           overflow: "hidden",
           //margin: "5px",
           fontFamily: "'Comfortaa', cursive",
-
+          fontSize: "12px",
           wordBreak: "break-word",
           textAlign: "left",
           width: "100%",
@@ -122,11 +122,16 @@ export default class Basic extends React.Component {
         }}
       >
         Doesn’t broad deflation beg for tax rate decreases?{space}
-        <a href="https://saverparty.quora.com/Are-there-any-reasons-why-universal-healthcare-is-bad-for-America-1">
+        <a
+          //Is economic opportunity by price-skew access manipulation, usufructuary corpus regulation, or extra product duress exclusion inflationary?
+          href="https://saverparty.quora.com/Are-there-any-reasons-why-universal-healthcare-is-bad-for-America-1"
+        >
           In order for government debt to be constitutional,
           <h4 style={{ float: "right" }}>bankingisnot.biz</h4>should tax rates
           rise to cover preceding losses until prices deflate?
         </a>
+        {space}Is a beneficial utility a substitute dynamic or deflationary
+        technical good?
         {/*technical benefit utility */}
         <h3 style={{ margin: "4px 0px" }}>
           Reduce liabilities future and past; government and ssa benefactors to
