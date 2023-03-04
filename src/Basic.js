@@ -123,7 +123,8 @@ export default class Basic extends React.Component {
       >
         Doesn’t broad deflation beg for tax rate decreases?{space}
         <a href="https://occupywallst.quora.com/What-are-some-reasons-why-someone-might-prefer-not-to-have-universal-health-care-in-the-United-States-1">
-          In order for government debt to be constitutional, should tax rates
+          In order for government debt to be constitutional,
+          <h4 style={{ float: "right" }}>bankingisnot.biz</h4>should tax rates
           rise to cover preceding losses until prices deflate?
         </a>
         {/*technical benefit utility */}
