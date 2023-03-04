@@ -214,9 +214,9 @@ export default class Basic extends React.Component {
             bottom: "0px",
             cursor: "pointer"
           }}
-          onClick={() => this.props.setBasic()}
+          //onClick={() => this.props.setBasic()}
         >
-          more
+          <a href="https://multilevelcapital.com">multilevelcapital.com</a>
         </div>
       </div>
     );
