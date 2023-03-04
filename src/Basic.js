@@ -121,10 +121,6 @@ export default class Basic extends React.Component {
           cursor: "pointer"
         }}
       >
-        <h3>
-          In order for government debt to be constitutional, should tax rates
-          rise to cover preceding losses until prices deflate?
-        </h3>
         <i>
           I haven’t extrapolated mark to market bond value capital loss from
           current value, so I take the Fed remits interest at maturity, but
@@ -150,14 +146,26 @@ export default class Basic extends React.Component {
         {space}[a]re the Federal Reserve’s earnings remittances due to the U.S.
         Treasury negative because they don’t have the money for bank deposits
         and reverse repo agreements or they are remitting interest at maturity
-        on a mark to market subpar basis?{space}
+        on a mark to market subpar basis
+        <span style={{ color: "firebrick" }}>
+          /(In order for government debt to be constitutional, should tax rates
+          rise to cover preceding losses until prices deflate?)
+        </span>
+        ?{space}
         <b>
           Are personal loan principals backed by a part of the borrower’s
           probationary estate or are uncollateralized loans worthless without a
-          lien? Do lenders return debt service upon foreclosure? Do community
-          property probate states protect testamentary estate beneficiaries’
-          inheriting children, siblings, and a spouse from lien holders or
-          personal creditors? Should probate regard anything or context?
+          lien? Do lenders return debt service upon foreclosure
+          <span style={{ color: "forestgreen" }}>
+            /(Can they acclimate the future and the past{/*reduce */})
+          </span>
+          ? Do community property probate states protect testamentary estate
+          beneficiaries’ inheriting children, siblings, and a spouse from lien
+          holders or personal creditors? Should probate
+          <span style={{ color: "cornflowerblue" }}>
+            /(government contractors' receivables)
+          </span>
+          {space}regard anything or context?
         </b>
         <h4>
           {/* <a href="https://www.ssa.gov/oact/ProgData/tsOps.html">
