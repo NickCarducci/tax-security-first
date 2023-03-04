@@ -121,6 +121,22 @@ export default class Basic extends React.Component {
           cursor: "pointer"
         }}
       >
+        <h3 style={{ margin: "4px 0px" }}>
+          Reduce liabilities future and past; government and ssa benefactors to
+          beneficiary by contractor context.
+        </h3>
+        <h4 style={{ margin: "4px 0px" }}>
+          <a href="https://marginalism.uk">
+            Is economic opportunity by non-price access manipulation,
+            usufructuary corpus regulation, or extra product duress exclusion
+            inflationary?
+          </a>
+          {space}
+          <i>
+            Did personal debt come before probate court? Were there public lands
+            when coinage was metal?
+          </i>
+        </h4>
         <i>
           I haven’t extrapolated mark to market bond value capital loss from
           current value, so I take the Fed remits interest at maturity, but
