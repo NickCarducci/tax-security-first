@@ -133,6 +133,7 @@ export default class Basic extends React.Component {
         {space}Is a beneficial utility a substitute dynamic or deflationary
         technical good?
         {/*technical benefit utility */}
+        <h4 style={{ float: "left", margin: "8px 10px" }}>thetaxparty.com</h4>
         <h3 style={{ margin: "4px 0px" }}>
           Reduce liabilities future and past; government and ssa benefactors to
           beneficiary by contractor context.
@@ -234,3 +235,4 @@ export default class Basic extends React.Component {
     );
   }
 }
+
